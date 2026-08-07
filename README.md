@@ -11,8 +11,8 @@ cool software ideas.
 🧰 Tools: Xcode, IDA Pro, JRMemoryEngine, Git
 💾 Database: MySQL
 
-Contact
-https://discord.gg/arzeXhddC  
+## Contact
+https://discord.gg/voidl4w
 
 
 <!--

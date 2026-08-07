@@ -1,4 +1,19 @@
-## Hi there 👋
+## Hey there! I'm Law👋
+## 🧍 About Me
+💡 I'm passionate about exploring new technologies and creating
+cool software ideas.
+🎮 I like working on mods, games, and creative projects.
+
+🛠 Tech Stack
+💻 Languages: C | C++ | Objective-C
+📱 Mobile Developer (iOS / Theos)
+🧠 Memory hacking / game modding FF
+🧰 Tools: Xcode, IDA Pro, JRMemoryEngine, Git
+💾 Database: MySQL
+
+Contact
+https://discord.gg/arzeXhddC  
+
 
 <!--
 **lawfeth/lawfeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

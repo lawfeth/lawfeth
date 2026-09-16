@@ -19,7 +19,7 @@ cool software ideas.
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/www.tiktok.com/@lawf3th)
 <a href="https://www.instagram.com/elelawss/" target="_blank">
   <button class="instagram">
-    📸 @elelawss
+    📸 INSTAGRAM
   </button>
 </a>
 
